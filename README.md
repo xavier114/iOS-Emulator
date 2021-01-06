@@ -1,4 +1,4 @@
-# iOS Emulator for Windows
+# iOS Emulator
 iOS Emulator for Windows System!
 
 # How it works
