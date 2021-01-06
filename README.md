@@ -20,13 +20,13 @@ iPhone OS 1 (AppStore) ==== iPhoneOS_1.0_store.aimg
 A tool call Applx help you emulate using command line! 
 Commands :
 
--recovery     This command boot your emulated iPhone into Recovery.\
--dfumode      This command boot your emulated iPhone into DFU Mode.\
--connect      This command emulate a computer connected to your iPhone. (And you will see a new mounted iPhone on your Computer)\
--keyboard     This command toggle the on-display keyboard.\
--touchid      This simulate a pressed home button.\
--keysend      This send any keycode to your emulated iPhone! (Example: applx -keysend KEY_VOLUME_UP)\
--run          This command execute the following ipa. (Example: applx -run example.ipa)\
+-recovery     This command boot your emulated iPhone into Recovery.
+-dfumode      This command boot your emulated iPhone into DFU Mode.
+-connect      This command emulate a computer connected to your iPhone. (And you will see a new mounted iPhone on your Computer)
+-keyboard     This command toggle the on-display keyboard.
+-touchid      This simulate a pressed home button.
+-keysend      This send any keycode to your emulated iPhone! (Example: applx -keysend KEY_VOLUME_UP)
+-run          This command execute the following ipa. (Example: applx -run example.ipa)
 
 And more is comming...
 </pre>
