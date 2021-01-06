@@ -15,7 +15,7 @@ iPhone OS 1            ==== iPhoneOS_1.0.aimg
 iPhone OS 1 (AppStore) ==== iPhoneOS_1.0_store.aimg
 </pre>
 
-# CommandLine
+# Command Line
 <pre>
 A tool call Applx help you emulate using command line! 
 Commands :
