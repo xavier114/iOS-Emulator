@@ -4,7 +4,7 @@ iOS Emulator for Windows System!
 # How it works
 
 <pre>
-This emulator is based on a custom code made by me (Any source code is stolen from Apple (to respect is privacy)).
+This emulator is based on a custom code made by me (no source code is stolen from Apple (to respect is privacy)).
 It works by using custom image file (.aimg) that contain UI and all ressource of a iPhone OS simulated copy.
 </pre>
 
