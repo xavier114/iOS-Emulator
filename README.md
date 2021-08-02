@@ -1,3 +1,9 @@
+# Changelog
+
+- added cydia preinstalled
+- added camera
+- bug fix bootloop
+
 # iOS Emulator
 iOS Emulator for Windows System!
 
