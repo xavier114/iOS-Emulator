@@ -37,7 +37,6 @@ iPhone OS 1.3 (Soon!)      ==== iPhoneOS_1.3.aimg
 'F3'         ===    Mute Ringtone
 'TAB'        ===    Home Button
 'HOME'       ===    Home Button
-
 </pre>
 
 # Command Line
