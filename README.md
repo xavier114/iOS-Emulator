@@ -54,7 +54,7 @@ Commands :
 -keyboard     This command toggle the on-display keyboard.
 -touchid      This simulate a pressed home button.
 -keysend      This send any keycode to your emulated iPhone! (Example: applx -keysend KEY_VOLUME_UP)
--run          This command execute the following ipa. (Example: applx -run example.ipa)
+-run          This command execute the following bundle id. (Example: applx -run com.apple.example)
 
 And more is comming...
 </pre>
