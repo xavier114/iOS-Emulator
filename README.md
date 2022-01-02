@@ -1,3 +1,5 @@
+<h3>*The iPhone OS Store version doesn`t work at all due to a bug that will be fix soon!</h3>
+
 # Changelog
 
 - added key emulating
