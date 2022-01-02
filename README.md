@@ -21,9 +21,9 @@ It works by using custom image file (.aimg) that contain UI and all ressource of
 
 <pre>
 iPhone OS 1                ==== iPhoneOS_1.0.aimg 
-iPhone OS 1 (AppStore)     ==== iPhoneOS_1.0_store.aimg
+<strike>iPhone OS 1 (AppStore)     ==== iPhoneOS_1.0_store.aimg</strike>
 iPhone OS 1.2              ==== iPhoneOS_1.2.aimg
-iPhone OS 1.2 (AppStore)   ==== iPhoneOS_1.2_store.aimg
+<strike>iPhone OS 1.2 (AppStore)   ==== iPhoneOS_1.2_store.aimg</strike>
 iPhone OS 1.3 (Soon!)      ==== iPhoneOS_1.3.aimg
 </pre>
 
