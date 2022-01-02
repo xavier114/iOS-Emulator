@@ -68,5 +68,5 @@ I respect all the Apple license. So I don't still code from Apple. Thank to Appl
 # Thank to
 <pre>
 Apple Inc.
-HardFix Custom Firmware
+HardFix Custom Firmware.
 </pre>
