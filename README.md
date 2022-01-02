@@ -25,6 +25,21 @@ iPhone OS 1.2 (AppStore)   ==== iPhoneOS_1.2_store.aimg
 iPhone OS 1.3 (Soon!)      ==== iPhoneOS_1.3.aimg
 </pre>
 
+# Keyboard Key Emulating
+
+<h3>Keyboard Key Tables</h3>
+
+<pre>
+'ESCAPE'     ===    Power Button
+'PLUS'       ===    Volume + Button
+'MINUS'      ===    Volume - Button
+'BACKSPACE'  ===    Back Button
+'F3'         ===    Mute Ringtone
+'TAB'        ===    Home Button
+'HOME'       ===    Home Button
+
+</pre>
+
 # Command Line
 <pre>
 A tool call Applx help you emulate using command line.
