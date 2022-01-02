@@ -1,29 +1,35 @@
 # Changelog
 
+- added key emulating
 - added cydia preinstalled
 - added camera
 - bug fix bootloop
 
 # iOS Emulator
-iOS Emulator for Windows System!
+iOS Emulator for Windows.
 
 # How it works
 
 <pre>
-This emulator is based on a custom code made by me (no source code is stolen from Apple (to respect is privacy)).
+This emulator is based on a custom code made by me (no source code is stolen from Apple (to respect copyright)).
 It works by using custom image file (.aimg) that contain UI and all ressource of a iPhone OS simulated copy.
 </pre>
 
 # Builds
 
 <pre>
-iPhone OS 1            ==== iPhoneOS_1.0.aimg 
-iPhone OS 1 (AppStore) ==== iPhoneOS_1.0_store.aimg
+iPhone OS 1                ==== iPhoneOS_1.0.aimg 
+iPhone OS 1 (AppStore)     ==== iPhoneOS_1.0_store.aimg
+iPhone OS 1.2              ==== iPhoneOS_1.2.aimg
+iPhone OS 1.2 (AppStore)   ==== iPhoneOS_1.2_store.aimg
+iPhone OS 1.3 (Soon!)      ==== iPhoneOS_1.3.aimg
 </pre>
 
 # Command Line
 <pre>
-A tool call Applx help you emulate using command line! 
+A tool call Applx help you emulate using command line.
+It's like Android Debug Bridge for iOS.
+
 Commands :
 
 -recovery     This command boot your emulated iPhone into Recovery.
