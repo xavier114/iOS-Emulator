@@ -12,6 +12,11 @@
 # iOS Emulator
 iOS Emulator for Windows.
 
+# License
+<pre>
+Since i'v made the code from the ground up. All the code belong to this project. So you can participate of the developpement of this project. YOU ARE NOT ALLOWED TO COPY AND SELL OR CREATE ANOTHER PROJECT USING THIS SOURCE CODE.
+</pre>
+
 # How it works
 
 <pre>
