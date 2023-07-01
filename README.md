@@ -4,9 +4,9 @@
 
 # Changelog
 
-- added key emulating
-- added cydia preinstalled
-- added camera
+- added Key Emulation
+- added Cydia Pre-installed
+- added Camera
 - bug fix bootloop
 
 # iOS Emulator
