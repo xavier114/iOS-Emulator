@@ -13,12 +13,12 @@ Since i've made the code from the ground up. All the code belong to this project
 - bug fix bootloop
 
 # iOS Emulator
-iOS Emulator for Windows.
+iOS Emulator for Windows. The Best iPhone OS Simulator!
 
 # How it works
 
 <pre>
-This emulator is based on a custom code made by me (no source code is stolen from Apple (to respect copyright)).
+This emulator is based on a custom code made by me (Every codes as been written from the ground up so no copyright issue with Apple Policy.).
 It works by using custom image file (.aimg) that contain UI and all ressource of a iPhone OS simulated copy.
 </pre>
 
