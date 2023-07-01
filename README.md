@@ -2,6 +2,9 @@
 
 <h3>*The iPhone OS Store version doesn`t work at all due to a bug that will be fix soon!</h3>
 
+# License
+Since i'v made the code from the ground up. All the code belong to this project. So you can participate of the developpement of this project. YOU ARE NOT ALLOWED TO COPY AND SELL OR CREATE ANOTHER PROJECT USING THIS SOURCE CODE.
+
 # Changelog
 
 - added Key Emulation
@@ -11,11 +14,6 @@
 
 # iOS Emulator
 iOS Emulator for Windows.
-
-# License
-<pre>
-Since i'v made the code from the ground up. All the code belong to this project. So you can participate of the developpement of this project. YOU ARE NOT ALLOWED TO COPY AND SELL OR CREATE ANOTHER PROJECT USING THIS SOURCE CODE.
-</pre>
 
 # How it works
 
