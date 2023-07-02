@@ -3,7 +3,7 @@
 <p align="center"><img src="https://icons-for-free.com/download-icon-Apple-1320568265345170711_48.png" alt="project-image"></p><br>
 
 <p id="description" align="center">A Partial-Source Project for Simulating iOS on Windows. This emulator is based on custom codes made by me (Every codes as been written from the ground up so no copyright issue with Apple Policy.). It works by using custom image file (.aimg) that contain UI and all ressource of a iPhone OS simulated copy.</p>
-
+<br>
 <p align="center"><img src="https://img.shields.io/badge/Project%20Version-1.0.4.2-lightgreen" alt="shields"> <img src="https://img.shields.io/badge/Platform-Windows-blue" alt="shields"> <img src="https://img.shields.io/badge/Language-PureOP-purple" alt="shields"></p>
 <br>
 <div align="center">
